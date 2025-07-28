@@ -1,2 +1,2 @@
 # app-organizacion-sin-fines-de-lucro
-corresponde a la guía de la organizacion sin fines de lucro
+Aplicación web para gestionar proyectos, eventos y donaciones.
